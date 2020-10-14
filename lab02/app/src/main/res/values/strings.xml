@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab02</string>
+    <string name="foobar">FOOBAR</string>
+    <string name="sign_up"><u>Sign up</u></string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+</resources>
