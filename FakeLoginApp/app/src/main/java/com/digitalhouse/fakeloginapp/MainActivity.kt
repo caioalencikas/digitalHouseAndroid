@@ -26,9 +26,10 @@ class MainActivity : AppCompatActivity() {
             val password = txtLoginPassword.text.toString()
 
             if(UserService.logIn(email, password) != null) {
-
                 val intent = Intent(this, activity_welcome::class.java)
+                intent.putExtra("USERNAME", UserService.logIn(email, password)?.name)
                 startActivity(intent)
+                finish()
             }
         }
 

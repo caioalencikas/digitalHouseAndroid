@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula21_ex2</string>
+    <string name="nome">Nome</string>
+    <string name="ano_nasc">Ano Nasc</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="xxx_voc_tem_y_ano_s">XXX, você tem Y ano(s)</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inserirNome">Insira seu nome</string>
+    <string name="inserirIdade">Insira sua idade</string>
+</resources>
