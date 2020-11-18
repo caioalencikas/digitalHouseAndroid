@@ -28,7 +28,6 @@ class MeuAdapter(private val dataSet: List<Personagem>): RecyclerView.Adapter<Me
             Picasso.get()
                 .load(personagem.imagemUrl)
                 .into(image)
-
         }
 
 

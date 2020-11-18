@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExercicoLoginApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signIn">Sign in</string>
+    <string name="signUp">Sign up</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="i_agree">I agree</string>
+    <string name="meuapp">MeuApp</string>
+</resources>
